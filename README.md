@@ -1,15 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=👋🏻%20안녕하세요!&fontSize=40&fontAlignY=55&animation=fadeIn&height=120)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=👋🏻%20안녕하세요!&fontSize=40&fontAlignY=55&animation=fadeIn)
 <div align="center">
-<h1>🌱 프론트엔드 개발자 최지헌입니다</h1>
+<h2>🌱 FE 개발자 최지헌입니다</h2>
 
 <a href="https://jee-hun.notion.site" target="_blank"><img src="https://img.shields.io/badge/About_Me-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/></a>
 <a href="https://www.linkedin.com/in/developer-jeehun" target="_blank"><img src="https://img.shields.io/badge/About_Me-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=ffffff"/></a>
 
 <h3>🙌🏻 Introduction</h3>
 
-👦🏻&nbsp; 사용자와 개발자의 경험을 항상 생각하는 개발자가 되려고 합니다<br>
-👨🏻‍💻&nbsp; 쉽고 클린한 코드를 고민하고, 적게 코딩하기 위해 노력합니다<br>
-🙆🏻‍♂️&nbsp; 언제나 함께 하고 싶은 사람이 되기 위해 노력중입니다
+👦🏻&nbsp; 사용자와 개발자의 경험을 항상 생각합니다<br>
+🙆🏻‍♂️&nbsp; 함께 하고 싶은 사람이 되고 싶습니다<br>
+👨🏻‍💻&nbsp; 더 쉽고 클린한 코드를 고민합니다<br>
+🙅🏻‍♂️&nbsp; 적게 코딩하기 위해 노력합니다
 
 <h3>⚙️ Skills</h3>
 
