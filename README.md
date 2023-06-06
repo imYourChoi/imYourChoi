@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=👋🏻%20안녕하세요!&fontSize=40&fontAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=👋🏻%20안녕하세요!&fontSize=40&fontAlignY=48&height=150&animation=fadeIn)
 <div align="center">
 <h2>🌱 FE 개발자 최지헌입니다</h2>
 
@@ -18,18 +18,18 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff"/><br>
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=ffffff"/>
 
 **Studying**<br>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=ffffff"/><br>
 <img src="https://img.shields.io/badge/styled-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=ffffff"/>
 
 <br>
 
-![Jee-hun's GitHub stats](https://github-readme-stats.vercel.app/api?username=imYourChoi&show_icons=true&theme=graywhite)
+![Jee-hun's GitHub stats](https://github-readme-stats.vercel.app/api?username=imYourChoi&hide_title=true&hide_rank=true&show_icons=true&theme=graywhite&border_radius=10&hide_border=true&count_private=true&number_format=long&line_height=26)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=david4008)](https://solved.ac/david4008)<br/>
 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=david4008)](https://solved.ac/david4008)<br/> --!>
 </div>
