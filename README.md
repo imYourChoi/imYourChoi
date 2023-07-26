@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=👋🏻%20안녕하세요!&fontSize=40&fontAlignY=48&height=150&animation=fadeIn)
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=👋🏻%20안녕하세요!&fontSize=40&fontAlignY=48&height=150&animation=fadeIn)
 <h2>🌱 FE 개발자 최지헌입니다</h2>
 
 <a href="https://jee-hun.notion.site" target="_blank"><img src="https://img.shields.io/badge/About_Me-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/></a>
