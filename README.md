@@ -16,11 +16,11 @@
 <h3>⚙️ Skills</h3>
 
 **Experienced**<br>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=000000"/>
 <img src="https://img.shields.io/badge/React-23272f?style=for-the-badge&logo=React&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=000000"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff"/><br>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=Figma&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/>
 
 **Studying**<br>
@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/styled-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=Node.js&logoColor=66CC33"/>
 <!-- <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=ffffff"/> -->
 
 <br>
