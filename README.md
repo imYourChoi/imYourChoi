@@ -31,8 +31,9 @@
 **Familiar**<br>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/styled-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=Node.js&logoColor=66CC33"/>
+<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=ffffff"/>
+<!-- <img src="https://img.shields.io/badge/styled-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffffff"/> -->
 <!-- <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=ffffff"/> -->
 
 <br>
